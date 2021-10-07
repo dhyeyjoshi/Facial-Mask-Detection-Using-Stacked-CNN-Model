@@ -1,5 +1,5 @@
 # Facial-Mask-Detection-Using-Stacked-CNN-Model
-## Deep Learning project : "Face Mask Detection based on Computer Vision".
+## Deep Learning project : "Face Mask Detection".
 
 The whole model is developed using tensorflow and applied CNN for creating the Face Mask Detector model 
 through which multiple subjects can be checked at same time.
