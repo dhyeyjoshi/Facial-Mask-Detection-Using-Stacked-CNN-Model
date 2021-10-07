@@ -8,4 +8,4 @@ through which multiple subjects can be checked at same time.
 
 --> You can refer my Research Paper & Research Article for more information about my project.
 
-<i>Research Papers attched here in repository.</i> 
+<i>Research Papers attched in repository.</i> 
